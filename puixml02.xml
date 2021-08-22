@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+     <widget  class="MainWindow">
+    	 <attribute x="0" y="0" width="1041" heigth= "683" name="mainwidow">
+   	 </attribute>
+     </widget >
+     <widget class="TYPE_QLABEL">
+	 <attribute x="40" y="30" width="72" heigth= "15" name="label">
+	 </attribute>
+     </widget>
+     <widget class="TYPE_PUSHBOTTON"> 
+	 <attribute x="40" y="60" width="93" heigth= "28" name="button">
+	 </attribute>
+     </widget>
+     <widget class="TYPE_RADIOBUTTON">
+	<attribute x="40" y="100" width="115" heigth= "19" name="radiobutton">
+	 </attribute>
+     </widget>
+     <widget class="TYPE_CHECKBOX">
+	<attribute x="40" y="140" width="91" heigth= "19" name="checkBox">
+	 </attribute>
+     </widget>
+     <widget class="TYPE_QCOMBOBOX" >
+	<attribute x="40" y="190" width="87" heigth= "22" name="comboBox">
+	 </attribute>
+     </widget>
+     <widget class="TYPE_QLINEEDIT" >
+	<attribute x="40" y="410" width="230" heigth= "21" name="lineEdit">
+	 </attribute>
+     </widget>
+     <widget class="TYPE_SPQINBOX" >
+	<attribute x="50" y="280" width="46" heigth= "22" name="spinBox">
+	 </attribute>
+     </widget>
+     <widget class="TYPE_QTIMEEDIT" >
+	<attribute x="40" y="330" width="118" heigth= "22" name="timeEdit">
+	 </attribute>
+     </widget>
+     <widget class="TYPE_QDATEEDIT" >
+	<attribute x="50" y="370" width="110" heigth= "22" name="dateEdit">
+	 </attribute>
+     </widget>
+
+</root> 

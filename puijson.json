@@ -1,0 +1,84 @@
+{
+    "widget": [
+      {
+        "class": "MainWindow",
+         "x": 0,
+         "y": 0,
+         "width": 1041,
+         "heigth": 683,
+         "name": "mainwidow"
+      },
+      {
+        "class": "TYPE_QLABEL",
+         "x": 50,
+         "y": 80,
+        "width": 81,
+         "heigth": 18,
+         "name": "label"
+      },
+      {
+        "class": "TYPE_PUSHBOTTON",
+         "x": 160,
+         "y": 80,
+         "width": 99,
+         "heigth": 28,
+         "name": "button"
+      },
+      {
+        "class": "TYPE_RADIOBUTTON",
+         "x": 290,
+         "y": 80,
+         "width": 126,
+         "heigth": 22,
+         "name": "radiobutton"
+      },
+      {
+        "class": "TYPE_CHECKBOX",
+         "x": 440,
+         "y": 80,
+         "width": 99,
+         "heigth": 22,
+         "name": "checkBox"
+      },
+      {
+        "class": "TYPE_QCOMBOBOX",
+         "x": 40,
+         "y": 40,
+         "width": 94,
+         "heigth": 21,
+         "name": "comboBox"
+      },
+      {
+        "class": "TYPE_QLINEEDIT",
+         "x": 150,
+         "y": 40,
+         "width": 113,
+         "heigth": 25,
+         "name": "lineEdit"
+      },
+      {
+        "class": "TYPE_SPQINBOX",
+         "x": 290,
+         "y": 40,
+         "width": 45,
+         "heigth": 25,
+         "name": "spinBox"
+      },
+      {
+        "class": "TYPE_QTIMEEDIT",
+         "x": 380,
+         "y": 40,
+         "width": 118,
+         "heigth": 25,
+         "name": "timeEdit"
+      },
+      {
+        "class": "TYPE_QDATEEDIT",
+         "x": 520,
+         "y": 40,
+         "width": 117,
+         "heigth": 25,
+         "name": "dateEdit"
+      }
+    ]
+}
